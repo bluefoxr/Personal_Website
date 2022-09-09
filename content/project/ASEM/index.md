@@ -8,6 +8,7 @@ summary: Measuring sustainable connectivity between Europe and Asia
 tags:
 - Indicators
 - Sustainable development
+- Policy
 title: Asia-Europe Connectivity
 ---
 

@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: Monitoring European spending programmes
 tags:
-- Other
+- Policy
 title: European programme monitoring
 ---
 

@@ -1,13 +1,13 @@
 ---
-date: "2021-01-01"
+date: "2019-01-01"
 external_link: ""
 image:
   caption: ""
   focal_point: Smart
-summary: Training courses, lecturing and tuition.
+summary: Ex-ante impact assessments for European policy making
 tags:
-- Other
-title: Training
+- Policy
+title: Impact assessment
 ---
 
 Impact assessment is the *ex-ante* assessment of the expected impacts of a policy. Usually this is done to compare several policy options, and the option which best meets the criteria will be chosen.

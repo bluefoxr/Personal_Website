@@ -8,6 +8,7 @@ summary: Linking quality infrastructure and sustainable development with a data-
 tags:
 - Indicators
 - Sustainable development
+- Policy
 title: Quality Infrastructure for Sustainable Development Index
 ---
 

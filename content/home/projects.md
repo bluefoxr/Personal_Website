@@ -30,12 +30,20 @@ subtitle = "SOME RECENT WORK"
     tag = "Indicators"
   
   [[content.filter_button]]
+    name = "Policy"
+    tag = "Policy"
+  
+  [[content.filter_button]]
     name = "Software"
     tag = "Software"
   
   [[content.filter_button]]
     name = "Sustainability"
     tag = "Sustainable development"
+  
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
