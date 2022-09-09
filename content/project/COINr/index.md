@@ -2,7 +2,7 @@
 date: "2022-09-01"
 external_link: ""
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ""
   focal_point: Smart
 summary: My R package is used worldwide by professional developers.
 tags:

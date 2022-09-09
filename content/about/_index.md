@@ -22,12 +22,15 @@ To find out more about my work, see my recent projects. For my research, see my 
 
 Here are some of my **technical skills** (both software and otherwise):
 
-* Highly experienced data/stats programmer, primarily in R and Matlab, but moving to Python as well
-* Git, Github
-* MS Office, very good in Excel including Power Query
-* LaTeX
-* Stats and machine learning to postgrad/research level
-* Good knowledge of public policy
+* Highly experienced data/stats programmer, primarily in **R** and **Matlab**, but moving to **Python** as well
+* Dashboard development in **Shiny**, **plotly** etc.
+* **Git**, **Github** (collaborative, branching, merging etc.)
+* **MS Office**, very good in **Excel** including **Power Query**
+* Scientific drafting in **LaTeX** and **Markdown**
+* Web development via **Blogdown** and **Hugo** (this site created using this method)
+* **Stats** and **machine learning** to postgrad/research level
+* Increasing knowledge of **SQL**
+* Good knowledge of **public policy**
 
 
 **"Softer"** skills:
@@ -40,6 +43,8 @@ Here are some of my **technical skills** (both software and otherwise):
 * Empathetic leader with a genuine interest in people
 
 ## Languages
+
+I love talking to and working with people from different countries.
 
 * English (native)
 * Italian (fluent)
@@ -54,6 +59,7 @@ Life is by no means just about work.
 * Family
 * Playing guitar, music, singing and songwriting
 * General fitness (running, crossfit, swimming)
+* Hiking
 * Skiing
 * Climbing
 * Construction and craft

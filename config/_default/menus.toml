@@ -30,7 +30,7 @@
 
 [[main]]
    name = "Resume"
-   url = "files/resume_WillBecker_TEST.pdf"
+   url = "/resume"
    weight = 60
 
 [[main]]
