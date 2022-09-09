@@ -26,10 +26,6 @@ subtitle = "SOME RECENT WORK"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Academic"
-    tag = "Academic"
-  
-  [[content.filter_button]]
     name = "Indicators"
     tag = "Indicators"
   
@@ -38,8 +34,8 @@ subtitle = "SOME RECENT WORK"
     tag = "Software"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Other"
+    name = "Sustainability"
+    tag = "Sustainable development"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -11,7 +11,7 @@ image:
   preview_only: false
 projects: []
 subtitle: 'New personal website launched! :rocket:'
-summary: test1
+summary: The start of my personal website.
 tags:
 - Meta
 title: Genesis
