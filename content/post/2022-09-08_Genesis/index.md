@@ -19,8 +19,6 @@ title: Genesis
 
 I thought it was about time I made a personal website, and so here it is.
 
-In the past, I had shied away from making a web page about myself, thinking it could come across as a little self-absorbed. Look at all the stuff I've done. Look at how great I am. Look at me!
-
 The reality is, in this day and age (yes I'm getting a little old), having a personal web page is very handy for showcasing my work to potential employers, for generating professional collaborations, and for keeping a record of what I've done. Instead of boring people with a long CV, I can just point people to this web page and they can read as much or as little as they want.
 
 I'm not sure yet how much blogging I will do here. I already have a series of [blog posts on composite indicators](https://compositeindicators.com/blog/) at another professional page (with some colleagues). I also have a consultancy site here but under the guise of "bluefox", and there are [other blog posts there](https://www.bluefoxdata.eu/blog/). I may end up porting some of those here.
