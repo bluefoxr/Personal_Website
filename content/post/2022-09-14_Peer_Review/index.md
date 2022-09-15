@@ -40,7 +40,7 @@ The central idea behind peer review is sensible: research should be checked and 
 
 In practice there are *many* problems with this process. Far too many to go into much detail here: I could mention the conflicting incentives of the "publish or perish" metrics that researchers are judged on; predatory/fake journals that will publish anything for a fee; "citation circles" where groups of friendly researchers cite each other's work simply to increase their citation counts; and the issue of "who you know" often outweighing "what you know", among many other issues that come to mind. But let's focus on some specific problems with the review process.
 
-Let me preface this with a disclaimer: *peer review is an essential part of the scientific process*. Reviewers give up their free time to make this happen, and should be recognised for this fact. I have reviewed many papers for around 20 different journals, and many academics do more than that, and do a great job of it. However, not all reviewers play by the rules, and this is a problem. So it is the minority that I will focus on here.
+Let me preface this with a disclaimer: *peer review is an essential part of the scientific process*. Reviewers give up their time to make this happen, without payment, and should be recognised for this fact. I have reviewed many papers for around 20 different journals, and many academics do more than that, and do a great job of it. However, not all reviewers play by the rules, and this is a problem. So it is the minority that I will focus on here.
 
 ## Hostile reviewers
 
@@ -72,7 +72,7 @@ Reviewing takes time, as we have seen. But there should be reasonable limits. To
 
 I'm not claiming that the paper had a divine right to publication, and in some cases reviewers had made reasonable points for rejecting the paper, which we subsequently addressed. But if research takes years to review, that is a problem for the authors and for the wider research field because there is such a huge lag in making new work visible. It means that published literature doesn't represent the state of the art, but rather the state of the art a couple of years ago, or more.
 
-# A better way?
+# A better way? :sunny:
 
 Ok that's enough complaining for now. I could definitely write more, but I wanted to rather share a recent positive submission and review experience, which I think ought to be more widespread.
 
