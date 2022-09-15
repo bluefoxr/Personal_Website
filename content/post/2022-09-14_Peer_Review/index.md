@@ -17,7 +17,7 @@ tags:
 title: "Open peer review: a better way?"
 ---
 
-If you have worked in academia for any length of time at all, you will probably know the frustration of *peer review*.
+If you have worked in academia for any length of time at all, you will know a bit about *peer review*, and will most likely have had some frustrating experiences along the way.
 
 But for non-academics, what is peer review anyway? Well, first, it's necessary to explain that much of an academic's worth is measured by the number (and to some extent, the quality) of academic publications. A publication is basically a report of some research done by the academic, usually of around 6000-10000 words. The "manuscript" (yes for some reason we have to pretend we're in Ancient Egypt) is submitted to an appropriate journal, it is reviewed by "peer review", and then if it is accepted, it is published, and the academic and his/her colleagues get a juicy publication point and accompanying citations to beef up their reputation.
 
