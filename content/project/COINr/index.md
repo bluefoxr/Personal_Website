@@ -21,3 +21,4 @@ For further reading, see:
 * [Github repo](https://github.com/bluefoxr/COINr/)
 * [CRAN page](https://cran.r-project.org/package=COINr)
 * [Online book](https://bluefoxr.github.io/COINrDoc/) (this is now outdated and refers to an older syntax)
+* [Paper](https://doi.org/10.21105/joss.04567) published in the Journal of Open Source Software
