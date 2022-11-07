@@ -17,9 +17,11 @@ education:
     year: 2006
 email: william.becker@bluefoxdata.eu
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sustainable development
+- Composite indicators
+- Uncertainty/sensitivity analysis and modelling
+- Data storytelling
+- Programming and software development
 name: William Becker
 organizations:
 - name: Freelance
