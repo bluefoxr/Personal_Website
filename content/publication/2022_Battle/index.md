@@ -6,7 +6,7 @@ authors:
 - Samuele Lo Piano
 - Andrea Saltelli
 date: "2021-07-01"
-doi: "0.1615/Int.J.UncertaintyQuantification.2021038133"
+doi: "10.1615/Int.J.UncertaintyQuantification.2021038133"
 featured: true
 image:
   caption: ''

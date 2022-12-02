@@ -15,6 +15,8 @@ COINr is a high-level R package which is the first fully-flexible development an
 
 I am the author, designer and developer of this package. It is used worldwide by universities and international organisations to develop and analyse composite indicators, including the European Commission's Joint Research Centre, United Nations agencies and many others.
 
+COINr was originally developed under contract with the European Commission's [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en), but has since been developed much futher under other contracts that I have worked on, and in my own time.
+
 For further reading, see:
 
 * [The main COINr website and documentation](https://bluefoxr.github.io/COINr/)
