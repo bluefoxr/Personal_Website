@@ -21,7 +21,7 @@ I started working as a freelancer back in October 2020. Since then I've worked o
 
 ## A New Era :sunrise:
 
-Up until March 2020 I worked at the European Commission's [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) (JRC). I worked there for nine years, and it was a really fantastic experience supporting European policy making, doing research, meeting and working with great people, and living in a rather nice corner of Italy near the mountains and the lakes. Unfortunately, while the JRC is great for temporary contracts, permanent contracts are much harder to come by. And by early 2020 my time was up, and as a Brexit refugee I was also excluded from applying the Commission at all. Thanks Boris. :clown:
+Up until March 2020 I worked at the European Commission's [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) (JRC). I worked there for nine years, and it was a really fantastic experience supporting European policy making, doing research, meeting and working with great people, and living in a rather nice corner of Italy near the mountains and the lakes. Unfortunately, while the JRC is great for temporary contracts, permanent contracts are much harder to come by. And by early 2020 my time was up, and as a Brexit refugee I was also excluded from applying to the Commission at all. Thanks Boris. :clown:
 
 March 2020 also coincided with the start of the pandemic and a long lockdown in Italy, so my first months outside the JRC were not the honeymoon of casual family time, projects and sports that I had envisaged. Anyway, for various reasons it was clear that we (me and my family) would stay in the area for a while yet. And so after a few months I began looking for work options.
 
