@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-10-01"
   date_end = ""
   description = """
-  Leading and designing international data analysis research to inform policy making. Bespoke statistical software design. Clients include UN agencies (WIPO, UNIDO), the European Commission and other international organisations.
+  Leading and designing international data analysis research to inform policy making. Bespoke statistical software design. Clients include UN agencies (WIPO, UNIDO, UNHCR), the European Commission and other international organisations.
   
   Responsibilities include:
   

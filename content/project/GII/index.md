@@ -7,6 +7,7 @@ image:
 summary: Custom R package development for composite indicator processing
 tags:
 - Indicators
+- Innovation
 - Software
 title: Global Innovation Index
 ---
