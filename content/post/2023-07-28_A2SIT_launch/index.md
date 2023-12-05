@@ -1,27 +1,24 @@
 ---
-title: "A2SIT App launched!"
+authors:
+- admin
 categories: []
 date: "2023-07-28"
-output:
-  html_document:
-    df_print: paged
-featured: no
+draft: false
+featured: false
 image:
   caption: ''
-  focal_point: ''
-  preview_only: no
+  focal_point: ""
+  preview_only: false
 projects: []
-subtitle: "Helping the UNHCR direct community-based protection"
-summary: "The Admin-2 Severity Index Tool was completed in its beta state and launched."
+summary: "The Admin-2 Severity Index Tool was completed in its beta state and launched for UNHCR Guatemala."
 tags:
 - Composite indicators
 - Software
 - A2SIT
-authors: admin
-draft: no
+title: "A2SIT App launched for UNHCR"
 ---
 
-I've just come to the end of a very interesting contract working for the [UNHCR](https://www.unhcr.org/) in Guatemala (for the moment).
+'ve just come to the end of a very interesting contract working for the [UNHCR](https://www.unhcr.org/) in Guatemala (for the moment).
 
 As you might know, the UNHCR helps displaced people around the world and protects human rights. In many places in the world there are movements of forcibly diplaced people, including refugees. Guatemala is one place where people are usually moving from South to North seeking refuge, asylum or simply a better life.
 
