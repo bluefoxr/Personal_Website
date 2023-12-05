@@ -13,6 +13,17 @@ title: "Composite indicator app"
 
 The open-source COINr package is now used worldwide for building and analysing composite indicators. However, for those people who don't use R, it is hard to access.
 
-I'm pleased to announce a new contract with [FIND](https://www.finddx.org/about/#:~:text=FIND%2C%20the%20global%20alliance%20for,of%20sustainable%2C%20resilient%20health%20systems.), a non-profit organisation which "seeks to ensure equitable access to reliable (medical) diagnosis around the world". The aim is to build a web app which acts as a GUI for COINr, allowing anyone to build and analyse composite indicators from their web browser! This is of particular use to FIND, who need to decide where to prioritise resources.
+The [Foundation for Innovative New Diagnostics (FIND)](https://www.finddx.org/) is a non-profit organisation which “seeks to ensure equitable access to reliable (medical) diagnosis around the world. Early in 2023 I began working with them to develop a Shiny app which can build composite indicators to help them identify in which countries to direct their resources.
 
-This project is very much in the early stages, and for the moment the app is planned to be used internally for FIND. With luck though, it may make an appearance in the public at some point. Stay tuned.
+The app is essentially a front end for the [COINr package](https://bluefoxr.github.io/COINr/), but also has a number of modifications and tries to strike a balance between flexibility and not overwhelming the user with too many options. Its features include:
+
+- Upload of any data set and index structure
+- Screening units by data availability
+- Imputation of missing data
+- Outlier treatment
+- Normalisation and aggregation
+- Stats, maps, bar and bubble charts
+- Unit profiles
+- Global sensitivity analysis and reweighting
+
+I leave a couple of screenshots here, and hopefully the app will be made freely available in the near future!
