@@ -14,8 +14,9 @@ projects: []
 subtitle: "Helping the UNHCR direct community-based protection"
 summary: "The Admin-2 Severity Index Tool was completed in its beta state and launched."
 tags:
-- Meta
-- Soapbox
+- Composite indicators
+- Software
+- A2SIT
 authors: admin
 draft: no
 ---
