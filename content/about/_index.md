@@ -7,12 +7,12 @@ title: About
 subtitle: A little more about me
 ---
 
-I would primarily describe myself as a data scientist but I have a very broad background. I'm eternally curious about learning new things, and this has led me to work in all kinds of fields. Following my PhD in Mechanical Engineering in the UK, I moved to Italy to work on scientific research for policy making. I have become internationally-recognised expert in both of the main fields I have worked in in recent years: sensitivity/uncertainty analysis, and composite indicators. I've worked on high-impact projects with dozens of international organisations, and in the meantime racked up around 30 journal publications, with 1200+ citations and counting.
+I am a policy-oriented data scientist but I have a very broad background. I'm eternally curious about learning new things, and this has led me to work in all kinds of fields. Following my PhD in Mechanical Engineering in the UK, I moved to Italy to work on scientific research for policy making. I have become internationally-recognised expert in both of the main fields I have worked in in recent years: sensitivity/uncertainty analysis, and composite indicators. I've worked on high-impact projects with dozens of international organisations, and in the meantime racked up around 30 journal publications, with 2000+ citations and counting.
 
 Throughout my career I've discovered what I really enjoy:
 
 * Working with interesting people
-* Tackling challenging problems
+* Tackling challenging and worthwhile problems
 * The satisfaction of doing something well
 * Learning new things and teaching others
 
@@ -23,13 +23,13 @@ To find out more about my work, see my recent projects. For my research, see my 
 Here are some of my **technical skills** (both software and otherwise):
 
 * Highly experienced data/stats programmer, primarily in **R** and **Matlab**, but moving to **Python** as well
-* Dashboard development in **Shiny**, **plotly** etc.
+* Dashboard and app development in **Shiny**, **plotly** etc.
 * **Git**, **Github** (collaborative, branching, merging etc.)
 * **MS Office**, very good in **Excel** including **Power Query**
 * Scientific drafting in **LaTeX** and **Markdown**
 * Web development via **Blogdown** and **Hugo** (this site created using this method)
 * **Stats** and **machine learning** to postgrad/research level
-* Increasing knowledge of **SQL**
+* Working with databases with **SQL**
 * Good knowledge of **public policy**
 
 
@@ -66,3 +66,8 @@ Life is by no means just about work.
 * Gardening and sustainable living
 * Cooking
 * Travel
+
+## Volunteering
+
+* I manage children's and adult's music courses at the [JRC Association for Music Makers](http://www.jammclub.eu/index.html).
+* I founded and run a [Repair Cafe](https://www.repaircafe.org/en/) in Ispra where we help people fix and reuse broken items rather than throwing them away.
