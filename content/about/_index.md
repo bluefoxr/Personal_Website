@@ -12,26 +12,34 @@ I am a policy-oriented data scientist but I have a very broad background. I'm et
 Throughout my career I've discovered what I really enjoy:
 
 * Working with interesting people
+<<<<<<< HEAD
 * Tackling challenging and worthwhile problems
+=======
+* Creatively tackling challenging problems
+>>>>>>> f835eb06e8c257d5213f10cfa1d2f7ef48a04674
 * The satisfaction of doing something well
 * Learning new things and teaching others
 
-To find out more about my work, see my recent projects. For my research, see my publications list.
+To find out more about my work, see my recent [projects](https://www.willbecker.me/#projects). For my research, see my [publications](https://www.willbecker.me/#publications) list.
 
 ## Skills
 
 Here are some of my **technical skills** (both software and otherwise):
 
 * Highly experienced data/stats programmer, primarily in **R** and **Matlab**, but moving to **Python** as well
+<<<<<<< HEAD
 * Dashboard and app development in **Shiny**, **plotly** etc.
+=======
+* App and dashboard development in **Shiny**, **plotly** etc.
+>>>>>>> f835eb06e8c257d5213f10cfa1d2f7ef48a04674
 * **Git**, **Github** (collaborative, branching, merging etc.)
+* Software development: CI/CD, unit testing, code review, etc.
 * **MS Office**, very good in **Excel** including **Power Query**
 * Scientific drafting in **LaTeX** and **Markdown**
 * Web development via **Blogdown** and **Hugo** (this site created using this method)
 * **Stats** and **machine learning** to postgrad/research level
 * Working with databases with **SQL**
 * Good knowledge of **public policy**
-
 
 **"Softer"** skills:
 
