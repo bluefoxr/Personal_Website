@@ -6,6 +6,8 @@ layout: docs
 title: Resume and CV
 ---
 
-Download my short 1-page resume [here](/files/resume_William_Becker.pdf).
+Here you can find my CVs. I try to keep this updated but if you need an up-to-date copy please contact me.
 
-If that's not enough, my 11-page academic-style CV has a lot more detail and can be downloaded [here](/files/CV_ac_William_Becker.pdf).
+- Short 2-page resume [here](/files/resume_William_Becker.pdf)
+- EUROPASS-style CV [here](/files/CV_2023-12_public.pdf)
+- Long academic-style CV with publications [here](/files/CV_ac_William_Becker.pdf) (although this is a bit out of date)
