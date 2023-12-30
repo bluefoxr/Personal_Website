@@ -3,7 +3,7 @@ authors:
 - admin
 categories: []
 date: "2023-12-31"
-draft: true
+draft: false
 featured: false
 image:
   caption: 'Credit [christels, Pixabay](https://pixabay.com/photos/fireworks-pyrotechnics-explode-1880045/)'
